@@ -1,0 +1,7 @@
+25172  Transformer based end-to-end Web Application Firewall (WAF) pipeline
+
+25242	Deep learning based ALM (Audio Language Model), which Listen, Think, and Understand the speech and non-speech Together.
+
+25226	AI Tool for Early-Stage Dementia Detection
+
+25104	Language Agnostic Chatbot
